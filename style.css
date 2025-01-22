@@ -30,6 +30,10 @@ nav{
     width: 140px;
     length: 10px;
 }
+ul {
+    display: flex;
+    justify-content: space-evenly;
+}
 nav ul li{
     display: inline-block;
     list-style: none;
